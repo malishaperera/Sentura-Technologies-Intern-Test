@@ -1,4 +1,4 @@
-// CreateUser.jsx (නව නම)
+
 import React, { useState } from "react";
 import { createUser } from "../services/weavyService";
 
